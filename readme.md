@@ -57,15 +57,16 @@ External libraries/frameworks may be used if permitted by the organizers.
 
 ## 🏆 Evaluation Criteria
 
-| Criteria                |  Marks |
-| ----------------------- | -----: |
-| 🎨 Design & UI          |     15 |
-| 💡 Creativity           |     15 |
-| ⚙️ Functionality        |     10 |
-| 📝 Content & Relevance  |     10 |
-| 📱 Responsiveness       |      5 |
-| 🚀 Overall Presentation |      5 |
-| **Total**               | **60** |
+| Criteria                   |  Marks |
+| -------------------------- | -----: |
+| 🎨 Design & UI             |     15 |
+| 💡 Creativity              |     15 |
+| ⚙️ Functionality           |     10 |
+| 📝 Content & Relevance     |     10 |
+| 📱 Responsiveness          |     10 |
+| 🚀 Overall Presentation    |     10 |
+| 👤 User-Friendly           |     10 |
+| **Total**                  | **80** |
 
 
 ---
